@@ -4,12 +4,12 @@
  * and open the template in the editor.
  */
 
-package talleruml.vehiculos.empleados;
+package talleruml.empleados;
 
 /**
  *
  * @author fioye
  */
-public class Empleado {
+public class Contratista {
     
 }
